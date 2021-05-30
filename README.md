@@ -1,6 +1,6 @@
 # nodejs-studies
 
-- Dependências
+## Dependências
 
 Para instalar a framework express
 > npm i express
