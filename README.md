@@ -14,8 +14,8 @@ Caso diga que está restrito o uso de scripts pelo Powershell
 
 Para instalar o Sequelize, una biblioteca de Js que faz a conexão entre o Js e bancos de dados, use
 > npm i sequelize
-    Para MySQL2
-    > npm i mysql2
+Para MySQL2
+> npm i mysql2
 
 Para instalar o handlebars, uma template engine que gera HTML dinâmicamente
 > npm i express-handlebars
