@@ -1,4 +1,4 @@
-# nodejs-studies
+# NodeJS
 
 ## Dependências
 
