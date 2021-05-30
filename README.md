@@ -1,6 +1,6 @@
 # nodejs-studies
 
-- Aula 6
+- Dependências
 
 Para instalar a framework express
 > npm i express
