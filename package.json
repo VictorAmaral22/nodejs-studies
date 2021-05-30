@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-studies",
+  "version": "1.0.0",
+  "description": "- Aula 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor-grandmasterwitcher/nodejs-studies.git"
+  },
+  "author": "Victor Amaral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victor-grandmasterwitcher/nodejs-studies/issues"
+  },
+  "homepage": "https://github.com/victor-grandmasterwitcher/nodejs-studies#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
